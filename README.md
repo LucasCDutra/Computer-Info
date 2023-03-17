@@ -24,4 +24,4 @@ To always keep equipment management systems up to date.
 ```
 pyinstaller --onefile --console --name getInfoPc -c getInfoPc.py --hidden-import wmi
 ```
-
+> The executable file will be generated inside the DIST folder
