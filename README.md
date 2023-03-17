@@ -18,7 +18,7 @@ To always keep equipment management systems up to date.
 
   ## Libraries ##
  - [WMC](https://pypi.org/project/WMI/)
- -[PyInstaller](https://pyinstaller.org/en/stable/)
+ - [PyInstaller](https://pyinstaller.org/en/stable/)
 
 ## Command Build ##
 ```
